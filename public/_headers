@@ -1,2 +1,6 @@
 /*
 X-Test: Always
+
+/foo
+! X-Test
+X-Test1: Always
